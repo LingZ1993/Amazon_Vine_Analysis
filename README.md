@@ -9,3 +9,5 @@ In this analysis, I used PySpark to extract the data, connected to AWS RDS, and 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
+1. How many Vine reviews and non-Vine reviews were there?
+  
