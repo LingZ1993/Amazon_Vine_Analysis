@@ -18,4 +18,4 @@ As we can see from the screenshot above, the percenage of vine reviews that are 
 ## Summary
 ### State if there is any positivity bias for reviews in the Vine program. 
 So I know in some cases in China, people are paying people to post positive reviews online to make their product look better and increase the possibility of people buying it, because if I'm shopping online, and I see a lot of positive reviews, I'll be more likely to buy their stuff, likewise, if I'm posting reviews, and I see most of the reviews are positive, so I'll be more likely to follow them and post positive reviews, so this is positive bias. 
-In my analysis, the result is showing that vine five star review percentage is 38.21%
+In my analysis, the result is showing that vine five star review percentage is 38.21%, and non-vine five star reviews percentage is 38.9%, so I'd say their percentages aren't that big of a difference, we can see the possible existance of positivity bias. 
