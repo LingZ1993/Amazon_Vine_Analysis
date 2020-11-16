@@ -12,5 +12,10 @@ According to the screenshot above, we can see that there are 94 reviews are part
 <img src="screenshots/Number_of_five_star.png">
 As we can see from the screenshot above, there are 48 five star vine reviews, and 15663 non-vine reviews. 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-<img src="screenshots/percentages.png">
-As we can see from the screenshot above, the percenage of vine reviews that are 5 stars is: 38.73%; The percentage of non-vine reviews are 5 stars is: 38.9%. 
+<img src="screenshots/five_star_percentage.png">
+As we can see from the screenshot above, the percenage of vine reviews that are 5 stars is: 38.21%; The percentage of non-vine reviews are 5 stars is: 38.9%. 
+
+## Summary
+### State if there is any positivity bias for reviews in the Vine program. 
+So I know in some cases in China, people are paying people to post positive reviews online to make their product look better and increase the possibility of people buying it, because if I'm shopping online, and I see a lot of positive reviews, I'll be more likely to buy their stuff, likewise, if I'm posting reviews, and I see most of the reviews are positive, so I'll be more likely to follow them and post positive reviews, so this is positive bias. 
+In my analysis, the result is showing that vine five star review percentage is 38.21%
