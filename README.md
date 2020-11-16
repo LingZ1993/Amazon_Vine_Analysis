@@ -6,8 +6,9 @@ In this analysis, I used PySpark to extract the data, connected to AWS RDS, and 
 ## Results
 ### Answering the following questions: 
 - How many Vine reviews and non-Vine reviews were there?
+<img src="screenshots/Number_of_reviews.png">
+According to the screenshot above, we can see that there are 94 reviews are part of the vine program (paid), and there are 40471 reviews are not part of the vine program (unpaid). 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-1. How many Vine reviews and non-Vine reviews were there?
-  
